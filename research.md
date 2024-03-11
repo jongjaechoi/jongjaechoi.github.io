@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Page1
+title: Page
 permalink: /research/
 ---
 
-Page1.
+To be determined.
