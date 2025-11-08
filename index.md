@@ -17,4 +17,6 @@ _jjchoi at kipf.re.kr_ or _jongchoi2893 at gmail.com_
 
 ### Work in Progress
 
+1. Econometrics in Sequential First-Price Auctions (with Quang Vuong)
+
 ### Policy Reports (in Korean)
