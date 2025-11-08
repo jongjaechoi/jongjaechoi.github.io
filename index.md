@@ -3,6 +3,8 @@ layout: default
 ---
 
 Jong Jae Choi (최정재)
+<br>
+Associate Fellow at Korea Institute of Public Finance - I go by Jong.
 
 ### Working Papers
 
