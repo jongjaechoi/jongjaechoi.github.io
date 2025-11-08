@@ -3,11 +3,11 @@ layout: default
 ---
 
 Jong Jae Choi (최정재)
-<br><br>
-Associate Fellow at Korea Institute of Public Finance - I go by Jong.
 <br>
-Fields of Interest: Auction, Econometrics, Industrial Organization.
+Associate Fellow at Korea Institute of Public Finance - I go by Jong.
 <br><br>
+Fields of Interest: Auction, Econometrics, Industrial Organization.
+<br>
 _jjchoi at kipf.re.kr_ or _jongchoi2893 at gmail.com_, <a href="CV_Choi.pdf" target="_blank" style="color: blue;">CV</a>
 
 ### Working Papers
